@@ -10,9 +10,9 @@ class Quadralateral {
         Scanner myObj = new Scanner(System.in);
         
         //take inputs
-        System.out.println("Enter the length: ");
+        System.out.print("Enter the length: ");
         Integer l = myObj.nextInt();
-        System.out.println("Enter the width: ");
+        System.out.print("Enter the width: ");
         Integer w = myObj.nextInt();
         
         //calculate area and perimeter
