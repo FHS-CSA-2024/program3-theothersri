@@ -24,16 +24,16 @@ class Quadralateral {
         //output
         System.out.println("The length is: "+l);
         System.out.println("The width is: "+w);
-        System.out.println("The area is:" + area);
-        System.out.println("The perimeter is:" + peri);
+        System.out.println("The area is: " + area);
+        System.out.println("The perimeter is: " + peri);
         
         /*
 Enter the length: 4
 Enter the width: 8
 The length is: 4
 The width is: 8
-The area is:32
-The perimeter is:24
+The area is: 32
+The perimeter is: 24
 
         
         
